@@ -1,0 +1,93 @@
+/*Style for the constitution page*/
+h2{
+	text-align:center;
+	font-size: 1.5em;
+	width: 70%;
+	margin-left:auto;
+	margin-right:auto;
+	padding-bottom: 2em;
+}
+
+h3, h4{
+	text-align:center;
+}
+
+h3{
+	padding-top:1.5em;
+	padding-bottom: .5em;
+}
+
+h4{
+	padding-bottom:1em;
+}
+
+article{
+	width:95%;
+	margin-left:auto;
+	margin-right:auto;
+	font-family:Georgia;
+}
+
+li>ol{
+	list-style-type:lower-alpha;
+}
+
+form{
+	margin-bottom:1.5em;
+}
+
+form p{
+	font-size:.7em;
+}
+
+article ol{
+	padding-left:3em;
+}
+
+article p, article li{
+	margin-top:.5em;
+	margin-bottom:.5em;
+}
+
+/*style for the constitution and bylaw forms*/
+.clear{
+	clear:both;
+}
+
+.center{
+	text-align:center;
+	padding-top:1em;
+	padding-bottom:.5em;
+}
+
+.signature{
+	clear:both;
+	padding-top:1em;
+}
+
+.line, .dateLine{
+	padding-top:2em;
+	margin-bottom:0;
+}
+
+.line{
+	float:left;
+}
+
+.dateLine{
+	float:right;
+}
+
+.sign{
+	clear:both;
+	float:left;
+}
+
+.date{
+	float:right;
+}
+
+.sign, .date{
+	padding-top:0;
+	margin-top:0;
+}

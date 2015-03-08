@@ -1,0 +1,4 @@
+article, aside, figure, footer, header, hgroup, menu, nav, section {display:block;}
+p{
+	margin-left:20em;
+}

@@ -1,0 +1,24 @@
+section p, section li{
+	margin-left:10em;
+	margin-top:.2em;
+	margin-bottom:.2em;
+}
+
+li p, li p.warning{
+	margin-left:auto;
+}
+
+p.directions{
+	font-weight:bold;
+	margin-bottom:.5em;
+	margin-top:3em;
+}
+
+form{
+	margin-top:1em;
+}
+
+footer a{
+	display:inline-block;
+	padding-right:1em;
+}

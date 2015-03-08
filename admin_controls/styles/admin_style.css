@@ -1,0 +1,37 @@
+/*All admin pages will link to this css file*/
+article, aside, figure, footer, header, hgroup, menu, nav, section {display:block;}
+ 
+body{
+	font-family:"Arial, Helvetica, sans-serif";
+}
+
+h1{
+	text-align:center;
+	margin-bottom:2em;
+}
+
+label{
+	float:left;
+	text-align:right;
+	width:10em;
+	margin-right:.5em;
+}
+
+
+
+footer{
+	margin-top:2em;
+	margin-left:10em;
+}
+
+p.warning{
+	color:red;
+	margin-left:10em;
+	font-weight:bold;
+}
+
+p.success{
+	color:purple;
+	margin-left:10em;
+	font-weight:bold;
+}

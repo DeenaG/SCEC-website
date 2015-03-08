@@ -1,0 +1,30 @@
+/*style for resources*/
+
+section{
+	width:50%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+section img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow: -20px 10px #FDB813;
+	border:2px solid #2A90D0;
+	padding-left:3em;
+	padding-right:3em;
+	float:right;
+	margin-bottom:5em;
+}
+
+section figcaption{
+	float:left;
+	font-family:"comic Sans MS", sans-serif;
+	font-size:1.5em;
+}
+
+figure{
+	clear:both;
+	color:#2A90D0;
+}

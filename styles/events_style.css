@@ -1,0 +1,40 @@
+/*style for the events page*/
+
+/*pictures for the events*/
+#images {
+    width: 500px;
+    height: 500px; 
+    margin-left:auto;
+    margin-right:auto;
+}
+#images img { 
+	max-height: 100%;
+	max-width: 100%;
+	margin-top:1em;
+
+ }
+ 
+ /*colors for the accordion headers*/
+ .ui-accordion-header { 
+ 	color:#004A98;
+ 	background-color:#2A90D0;
+ 	background-image: none;
+ 	font-weight:bold;
+ 	font-size:1.3em;
+ }
+ 
+ .ui-accordion-content p{
+ 	width:90%;
+ 	margin-left:auto;
+ 	margin-right:auto;
+ 	margin-top:2em;
+	text-align:justify;
+	text-justify:inter-word;
+
+ }
+ 
+ .ui-accordion-header.ui-state-active {
+ 	color:#FDB813;
+ 	background-color: #2A90D0;
+ }
+

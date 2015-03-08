@@ -1,0 +1,43 @@
+
+ /*style for the header*/
+
+ #NEIU_logo{
+ 	width: 95%;
+	padding: .25in;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+h2{
+	color:#2A90D0;
+	clear: both;
+}
+
+/*container for the SCEC logo and h1*/
+#head_logo {
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+    background-color: #004A98;
+    border-radius: 15px 0 0 15px;
+    padding-top: .8em;
+    padding-bottom: .6em;
+}
+#head_logo h1 {
+    float: left;
+    width: 60%;
+    color: #FDB813;
+    font-family: Georgia;
+    font-weight: 500;
+    font-size: 2.5em;
+    font-style: italic;
+    text-align: center;
+    margin: 0;
+    float: left;
+    padding-top: 1.6em;
+    padding-left: 1.5em;
+}
+#head_logo img {
+	padding-left: 2.2em;
+}

@@ -1,0 +1,36 @@
+/*style for the navigation bar*/
+
+#navigate{
+	margin-bottom: 3em;
+	margin-top: .2em;
+	width: 100%;
+	text-align: center;
+}
+#navigate ul{
+	list-style: none;
+	clear: both;
+}
+
+#navigate li{
+	display: inline-block;
+}
+#navigate a{
+	text-decoration: none;
+	color: #EDF2F2;
+	font-weight: bold;
+	font-size: .93em;
+	background-color: #004A98;	
+	padding: 0 1.2em;
+}
+
+/*the style for the current tab*/
+#index a.index, #constitution a.constitution, #minutes a.minutes, #officers a.officers, #resources a.resources{
+	color: #004898;
+	background-color: #EDF2F2;
+	border: 1px solid#004A98
+}
+
+#navigate a:hover, #navigate a:focus{
+	color:#FDB813;
+	background-color:#004A98; 
+}
